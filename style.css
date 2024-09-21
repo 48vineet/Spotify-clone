@@ -271,3 +271,65 @@ a {
   border-radius: 50%;
   margin-top: -6px;
 }
+
+.album {
+  display: flex;
+}
+
+.album-img img {
+  height: 3.5rem;
+  width: 3.5rem;
+  border-radius: 5px;
+  padding: 1rem 0 0 1rem;
+}
+
+.album-name {
+  font-size: 0.9rem;
+  font-weight: 600;
+  padding-top: 0.5rem;
+  padding-left: 0.5rem;
+}
+
+.album-artist {
+  font-size: 0.8rem;
+  font-weight: 300;
+  margin-left: 0.5rem;
+  margin-top: -0.5rem;
+}
+
+.heart {
+  display: flex;
+  align-items: center;
+  padding-left: 5rem;
+  height: 5rem;
+  width: 2rem;
+}
+
+.controls {
+  display: flex;
+  justify-content: space-between;
+}
+
+.vol-bar {
+  appearance: none;
+  background-color: transparent;
+  cursor: pointer;
+  user-select: none;
+  width: 30%;
+  padding-right: 2rem;
+}
+
+.vol-bar::-webkit-slider-runnable-track {
+  background-color: aliceblue;
+  border-radius: 100px;
+  height: 0.2rem;
+}
+
+.vol-bar::-webkit-slider-thumb {
+  appearance: none;
+  height: 1rem;
+  width: 1rem;
+  background-color: #1bd760 !important;
+  border-radius: 50%;
+  margin-top: -6px;
+}
