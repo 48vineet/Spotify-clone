@@ -17,7 +17,8 @@ This project is a clone of the Spotify web interface, built using pure HTML and 
 - **CSS3**: Custom styles for layout, fonts, colors, and responsiveness.
 
 ## Screenshots
-![Spotify Clone](https://github.com/user-attachments/assets/c5e7d83a-6642-4978-ace4-3fe165ec42ac)
+
+![Spotify Clone](https://github.com/user-attachments/assets/0608e250-afc6-4abc-b54a-189874f1b36e)
 
 
 
