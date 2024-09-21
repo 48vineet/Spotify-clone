@@ -18,7 +18,7 @@ This project is a clone of the Spotify web interface, built using pure HTML and 
 
 ## Screenshots
 
-![Spotify](https://github.com/48vineet/Spotify-clone/blob/main/screenshot%20from%202024-09-21%2021-31-10.png)
+![Spotify](./Screenshot from 2024-09-21 21-31-10.png)
 
 
 ## Installation
