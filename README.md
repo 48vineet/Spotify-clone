@@ -1,6 +1,6 @@
 # Spotify Clone   - [Link](https://48vineet.github.io/Spotify-clone/)
 
-This project is a clone of the Spotify web interface, built using pure HTML and CSS. It replicates the visual design of the Spotify platform without any JavaScript or backend functionality. 
+This project is a clone of the Spotify web interface, built using pure HTML and CSS. It replicates the visual design of the Spotify platform without any JavaScript or backend functionality.  
 
 ## Features
 
