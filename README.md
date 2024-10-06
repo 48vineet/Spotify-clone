@@ -12,7 +12,7 @@ This project is a clone of the Spotify web interface, built using pure HTML and 
 - **CSS-Only Styling**: No frameworks used; all styling is done using custom CSS.
 
 ## Technologies Used 
-
+ 
 - **HTML5**: Used for the structure and content of the page. 
 - **CSS3**: Custom styles for layout, fonts, colors, and responsiveness. 
 
