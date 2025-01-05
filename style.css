@@ -8,7 +8,7 @@ body {
 
 .main {
   display: flex;
-  height: 100vh;
+  height: 100vh; 
   padding: 0.5rem;
 }
 
